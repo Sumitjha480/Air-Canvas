@@ -19,9 +19,9 @@ Here Hand landmarks detection and tracking is used in order to achieve the objec
 
 5. Detect the landmarks, find the forefinger coordinates and keep storing them in the array for successive frames .(Arrays for drawing points on canvas)
 
+6. Finally draw the points stored in array on the frames and canvas.
 
-Finally draw the points stored in array on the frames and canvas .
-Requirements: python3 , numpy , opencv, mediapipe installed on your system.
+Requirements: python3 , numpy , opencv, mediapipe
 
 ## Screenshot
 
