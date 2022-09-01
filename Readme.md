@@ -22,3 +22,7 @@ Here Hand landmarks detection and tracking is used in order to achieve the objec
 
 Finally draw the points stored in array on the frames and canvas .
 Requirements: python3 , numpy , opencv, mediapipe installed on your system.
+
+## Screenshot
+
+![Image](/1.png)    ![Image](/2.png)
